@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X8hTSPAvYlSgkbZdfzuTu+UjHzQiPq8/zQATaksIY8aSlxaDRF6RPIgM1jr5LAb6+Anse2wF191o4P5JFA06/Q==",
+  "dgSpecHash": "EZm8z4AbZvr2CskvsuKWrouRpV5FzsPpHQ4qTVNNqRVHaSb2BbmnL+r+DDqSb0/5RjfiVni1g+eZkMFYQ354fQ==",
   "success": true,
-  "projectFilePath": "E:\\Training\\DEV\\C#\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "E:\\Training\\DEV\\CSharp\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

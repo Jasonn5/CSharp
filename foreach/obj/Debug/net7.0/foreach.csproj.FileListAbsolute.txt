@@ -1,0 +1,15 @@
+E:\Training\DEV\CSharp\foreach\bin\Debug\net7.0\foreach.exe
+E:\Training\DEV\CSharp\foreach\bin\Debug\net7.0\foreach.deps.json
+E:\Training\DEV\CSharp\foreach\bin\Debug\net7.0\foreach.runtimeconfig.json
+E:\Training\DEV\CSharp\foreach\bin\Debug\net7.0\foreach.dll
+E:\Training\DEV\CSharp\foreach\bin\Debug\net7.0\foreach.pdb
+E:\Training\DEV\CSharp\foreach\obj\Debug\net7.0\foreach.csproj.AssemblyReference.cache
+E:\Training\DEV\CSharp\foreach\obj\Debug\net7.0\foreach.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\DEV\CSharp\foreach\obj\Debug\net7.0\foreach.AssemblyInfoInputs.cache
+E:\Training\DEV\CSharp\foreach\obj\Debug\net7.0\foreach.AssemblyInfo.cs
+E:\Training\DEV\CSharp\foreach\obj\Debug\net7.0\foreach.csproj.CoreCompileInputs.cache
+E:\Training\DEV\CSharp\foreach\obj\Debug\net7.0\foreach.dll
+E:\Training\DEV\CSharp\foreach\obj\Debug\net7.0\refint\foreach.dll
+E:\Training\DEV\CSharp\foreach\obj\Debug\net7.0\foreach.pdb
+E:\Training\DEV\CSharp\foreach\obj\Debug\net7.0\foreach.genruntimeconfig.cache
+E:\Training\DEV\CSharp\foreach\obj\Debug\net7.0\ref\foreach.dll

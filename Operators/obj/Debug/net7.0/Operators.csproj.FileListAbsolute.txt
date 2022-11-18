@@ -1,0 +1,15 @@
+E:\Training\DEV\CSharp\Operators\bin\Debug\net7.0\Operators.exe
+E:\Training\DEV\CSharp\Operators\bin\Debug\net7.0\Operators.deps.json
+E:\Training\DEV\CSharp\Operators\bin\Debug\net7.0\Operators.runtimeconfig.json
+E:\Training\DEV\CSharp\Operators\bin\Debug\net7.0\Operators.dll
+E:\Training\DEV\CSharp\Operators\bin\Debug\net7.0\Operators.pdb
+E:\Training\DEV\CSharp\Operators\obj\Debug\net7.0\Operators.csproj.AssemblyReference.cache
+E:\Training\DEV\CSharp\Operators\obj\Debug\net7.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\DEV\CSharp\Operators\obj\Debug\net7.0\Operators.AssemblyInfoInputs.cache
+E:\Training\DEV\CSharp\Operators\obj\Debug\net7.0\Operators.AssemblyInfo.cs
+E:\Training\DEV\CSharp\Operators\obj\Debug\net7.0\Operators.csproj.CoreCompileInputs.cache
+E:\Training\DEV\CSharp\Operators\obj\Debug\net7.0\Operators.dll
+E:\Training\DEV\CSharp\Operators\obj\Debug\net7.0\refint\Operators.dll
+E:\Training\DEV\CSharp\Operators\obj\Debug\net7.0\Operators.pdb
+E:\Training\DEV\CSharp\Operators\obj\Debug\net7.0\Operators.genruntimeconfig.cache
+E:\Training\DEV\CSharp\Operators\obj\Debug\net7.0\ref\Operators.dll
